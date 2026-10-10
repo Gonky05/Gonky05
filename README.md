@@ -1,16 +1,33 @@
-## Hi there 👋
+## 👋 Hi, I'm Gonçalo [🔗 LinkedIn](https://www.linkedin.com/in/gon%C3%A7alo-taborda/)
 
-<!--
-**Gonky05/Gonky05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
 
-Here are some ideas to get you started:
+I am currently studying for a **Master’s degree in Telecommunications and Computer Engineering** at **Instituto Superior Técnico**, on the **Taguspark Campus**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Throughout my academic career, I have been developing knowledge and skills in the field of **Information and Telecommunications Technologies**, with a particular interest in:
+
+- 📡 Telecommunications
+- 💻 Information Technologies
+- 🛠️ Practical applications of technology
+- 🧩 Problem-solving
+- ⚙️ Engineering and technical projects
+
+## 💼 Professional Experience
+
+Alongside my academic studies, I have around **four years of part-time professional experience** at a private company, where I work in:
+
+- 🎪 Events
+- 🍽️ Company restaurant
+
+This experience has enabled me to develop essential personal and professional skills, including:
+
+- ✅ Responsibility
+- 💬 Communication
+- 📋 Organisation
+- 🔄 Adaptability
+- 🤝 Teamwork
+- 👥 Direct interaction with the public
+
+## 🚀 Personal Development
+
+Combining my academic background with professional experience has contributed significantly to my **personal and professional growth**, allowing me to develop both technical knowledge and interpersonal skills.
