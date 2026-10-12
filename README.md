@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Gonçalo [🔗 LinkedIn](https://www.linkedin.com/in/gon%C3%A7alo-taborda/)
+## 👋 Hi, I'm Gonçalo [🔗 LinkedIn](https://www.linkedin.com/in/gon%C3%A7alo-taborda/) | [📄 Curriculum Vitae](./Goncalo_Taborda_CV.pdf)
 
 ## 🎓 About Me
 
