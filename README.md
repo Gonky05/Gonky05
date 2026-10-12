@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Gonçalo Miguel Rainho Taborda[📄 Curriculum Vitae](./Goncalo_Taborda_CV.pdf)
+## 👋 Hi, I'm Gonçalo Miguel Rainho Taborda [📄 Curriculum Vitae](./Goncalo_Taborda_CV.pdf)
 
 ## 🎓 About Me
 
@@ -35,4 +35,4 @@ Combining my academic background with professional experience has contributed si
 ## 📫 Contacts
 
 [🔗 LinkedIn](https://www.linkedin.com/in/gon%C3%A7alo-taborda/) |
-[✉️ Email](mailto:tabordini05@gmail.com)
+[✉️ Gmail]: tabordini05@gmail.com
