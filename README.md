@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Gonçalo [🔗 LinkedIn](https://www.linkedin.com/in/gon%C3%A7alo-taborda/) | [📄 Curriculum Vitae](./Goncalo_Taborda_CV.pdf)
+## 👋 Hi, I'm Gonçalo [📄 Curriculum Vitae](./Goncalo_Taborda_CV.pdf)
 
 ## 🎓 About Me
 
@@ -31,3 +31,8 @@ This experience has enabled me to develop essential personal and professional sk
 ## 🚀 Personal Development
 
 Combining my academic background with professional experience has contributed significantly to my **personal and professional growth**, allowing me to develop both technical knowledge and interpersonal skills.
+
+## 📫 Contacts
+
+[🔗 LinkedIn](https://www.linkedin.com/in/gon%C3%A7alo-taborda/) |
+[✉️ Email](mailto:tabordini05@gmail.com)
