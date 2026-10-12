@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Gonçalo Miguel Rainho Taborda [📄 Curriculum Vitae](./Goncalo_Taborda_CV.pdf)
+## 👋 Hi, I'm Gonçalo [📄 Curriculum Vitae](./Goncalo_Taborda_CV.pdf)
 
 ## 🎓 About Me
 
