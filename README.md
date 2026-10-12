@@ -35,4 +35,4 @@ Combining my academic background with professional experience has contributed si
 ## 📫 Contacts
 
 [🔗 LinkedIn](https://www.linkedin.com/in/gon%C3%A7alo-taborda/) |
-[✉️ Gmail]: tabordini05@gmail.com
+tabordini05@gmail.com
